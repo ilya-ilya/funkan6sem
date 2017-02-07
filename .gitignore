@@ -1,16 +1,5 @@
-## .mk files from LaTeX.mk
-*.mk 
-
 ## Vim locks
 *.swp
-
-## Xy-Pic matrices
-*.xyc
-
-## Output
-*.pdf
-*.ps
-*.dvi
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
